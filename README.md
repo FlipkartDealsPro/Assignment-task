@@ -1,5 +1,3 @@
-# Assignment-task
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
